@@ -11,3 +11,6 @@
 
 ##  Model Performance
 ![customer img](https://github.com/user-attachments/assets/eddf977f-2648-4c95-8f11-0bd9d5851db1)
+
+## Dataset link
+https://www.kaggle.com/datasets/yasserh/customer-segmentation-dataset
