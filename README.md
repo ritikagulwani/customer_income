@@ -1,3 +1,9 @@
+## Model work flow
+
+![cust](https://github.com/user-attachments/assets/f90d5adf-9d4c-47b3-8101-e74bf7b5f7b7)
+
+
+
 ##  Objective
 
 - Build a predictive model to estimate a customer's income bracket.
